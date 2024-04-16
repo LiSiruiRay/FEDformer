@@ -5,7 +5,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="FEDformer_installable",  # Replace with your package name
+    name="FEDformerInstallable",  # Replace with your package name
     version="0.1.0",
     author="Ray",  # Replace with your name or your organization's name
     description="A Python package for FEDformer incorporating time series forecasting models",
